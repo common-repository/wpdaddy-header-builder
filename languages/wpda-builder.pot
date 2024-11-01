@@ -1,0 +1,425 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WP Daddy Header Builder\n"
+"POT-Creation-Date: 2020-02-07 09:53+0200\n"
+"PO-Revision-Date: 2020-02-07 09:18+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpda-builder.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: core/class-frontend.php:32
+msgid "Edit with WP Daddy builder"
+msgstr ""
+
+#: core/class-frontend.php:38
+msgid "Edit Header Area"
+msgstr ""
+
+#: core/class-frontend.php:48 core/library/class-header.php:66
+msgid "Edit Header"
+msgstr ""
+
+#: core/class-menu.php:26
+msgid "WPDaddy Header Builder Settings"
+msgstr ""
+
+#: core/class-menu.php:27 core/elementor/index.php:96
+msgid "WPDaddy Builder"
+msgstr ""
+
+#: core/class-settings.php:116
+msgid "Saved"
+msgstr ""
+
+#: core/class-settings.php:121
+msgid "Error"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:78 core/library/class-header.php:134
+msgid "WPDaddy Settings"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:86
+msgid "Sticky"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:97
+msgid "Background"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:122
+msgid "Border"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:132
+msgid "Normal"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:147
+#: core/elementor/modify/class-section.php:184
+msgid "Border Radius"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:169
+msgid "Hover"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:204
+msgid "Transition Duration"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:248
+msgid "Typography"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:256
+msgid "Heading Color"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:269
+msgid "Text Color"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:285
+msgid "Link Color"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:303
+msgid "Link Hover Color"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:321
+msgid "Text Align"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:325
+#: core/elementor/widgets/cart/trait-controls.php:31
+#: core/elementor/widgets/delimiter/trait-controls.php:31
+#: core/elementor/widgets/logo/trait-controls.php:124
+#: core/elementor/widgets/menu/trait-controls.php:41
+#: core/elementor/widgets/search/trait-controls.php:31
+msgid "Left"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:329
+#: core/elementor/widgets/cart/trait-controls.php:35
+#: core/elementor/widgets/delimiter/trait-controls.php:35
+#: core/elementor/widgets/logo/trait-controls.php:128
+#: core/elementor/widgets/menu/trait-controls.php:45
+#: core/elementor/widgets/search/trait-controls.php:35
+msgid "Center"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:333
+#: core/elementor/widgets/cart/trait-controls.php:39
+#: core/elementor/widgets/delimiter/trait-controls.php:39
+#: core/elementor/widgets/logo/trait-controls.php:132
+#: core/elementor/widgets/menu/trait-controls.php:49
+#: core/elementor/widgets/search/trait-controls.php:39
+msgid "Right"
+msgstr ""
+
+#: core/elementor/widgets/cart/index.php:23
+msgid "Cart"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:20
+#: core/elementor/widgets/delimiter/trait-controls.php:20
+#: core/elementor/widgets/logo/trait-controls.php:20
+#: core/elementor/widgets/menu/trait-controls.php:20
+#: core/elementor/widgets/search/trait-controls.php:20
+msgid "General"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:27
+#: core/elementor/widgets/delimiter/trait-controls.php:27
+#: core/elementor/widgets/logo/trait-controls.php:120
+#: core/elementor/widgets/menu/trait-controls.php:37
+#: core/elementor/widgets/search/trait-controls.php:27
+msgid "Alignment"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:53
+#: core/elementor/widgets/menu/trait-controls.php:63
+#: core/elementor/widgets/search/trait-controls.php:53
+msgid "Custom Settings"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:62
+#: core/elementor/widgets/search/trait-controls.php:62
+msgid "Icon Color"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:78
+#: core/elementor/widgets/search/trait-controls.php:77
+msgid "Icon Font Size"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:92
+#: core/elementor/widgets/cart/trait-controls.php:179
+#: core/elementor/widgets/menu/trait-controls.php:132
+#: core/elementor/widgets/search/trait-controls.php:91
+#: core/elementor/widgets/search/trait-controls.php:148
+msgid "Enter spacing in pixels."
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:106
+msgid "Icon Count Background Color"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:121
+msgid "Icon Count Color"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:136
+msgid "Cart Width"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:150
+#: core/elementor/widgets/delimiter/trait-controls.php:82
+#: core/elementor/widgets/menu/trait-controls.php:221
+#: core/elementor/widgets/search/trait-controls.php:119
+msgid "Enter width in pixels."
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:165
+msgid "Spacing Above the Cart"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:194
+msgid "Cart Background Color"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:209
+msgid "Cart Text Color"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:224
+msgid "Remove Icon Color"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:239
+msgid "Buttons Background Color"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:254
+msgid "Buttons Color"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:269
+msgid "Custom Checkout Button"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:281
+#: core/elementor/widgets/cart/trait-controls.php:297
+msgid "Checkout Button Background Color"
+msgstr ""
+
+#: core/elementor/widgets/delimiter/index.php:24
+msgid "Delimiter"
+msgstr ""
+
+#: core/elementor/widgets/delimiter/trait-controls.php:46
+#: core/elementor/widgets/logo/trait-controls.php:139
+#: core/elementor/widgets/menu/trait-controls.php:56
+msgid ""
+"Available only if the element is not inline. Otherwise column alignment "
+"applies."
+msgstr ""
+
+#: core/elementor/widgets/delimiter/trait-controls.php:53
+msgid "Color"
+msgstr ""
+
+#: core/elementor/widgets/delimiter/trait-controls.php:68
+msgid "Width"
+msgstr ""
+
+#: core/elementor/widgets/delimiter/trait-controls.php:96
+msgid "Height"
+msgstr ""
+
+#: core/elementor/widgets/logo/index.php:23
+msgid "Logo"
+msgstr ""
+
+#: core/elementor/widgets/logo/trait-controls.php:27
+msgid "Header Logo"
+msgstr ""
+
+#: core/elementor/widgets/logo/trait-controls.php:38
+msgid "Enable Logo Height"
+msgstr ""
+
+#: core/elementor/widgets/logo/trait-controls.php:50
+msgid "Set Logo Height"
+msgstr ""
+
+#: core/elementor/widgets/logo/trait-controls.php:64
+msgid "Enter logo height in pixels."
+msgstr ""
+
+#: core/elementor/widgets/logo/trait-controls.php:80
+msgid "Logo Typography"
+msgstr ""
+
+#: core/elementor/widgets/logo/trait-controls.php:91
+msgid "Logo Text Color"
+msgstr ""
+
+#: core/elementor/widgets/logo/trait-controls.php:106
+msgid "Sticky Logo"
+msgstr ""
+
+#: core/elementor/widgets/menu/index.php:23
+msgid "Menu"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:27
+msgid "Select Menu"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:73
+msgid "Menu Typography"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:84
+#: core/elementor/widgets/menu/trait-controls.php:244
+msgid "Menu Text Color"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:99
+#: core/elementor/widgets/menu/trait-controls.php:259
+msgid "Menu Text Color (Active and Hover)"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:118
+msgid "Spacing Between Menu Items"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:147
+msgid "Sub Menu Typography"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:158
+msgid "Sub Menu Background"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:173
+#: core/elementor/widgets/menu/trait-controls.php:293
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:188
+#: core/elementor/widgets/menu/trait-controls.php:308
+msgid "Sub Menu Text Color (Active and Hover)"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:207
+msgid "Sub Menu Width"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:235
+msgid "Custom Mobile Settings"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:278
+msgid "Menu Background"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:327
+msgid "Mobile Icon Color"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:342
+msgid "Mobile Icon Color (Active)"
+msgstr ""
+
+#: core/elementor/widgets/search/index.php:23
+msgid "Search"
+msgstr ""
+
+#: core/elementor/widgets/search/trait-controls.php:105
+msgid "Field Width (Open State)"
+msgstr ""
+
+#: core/elementor/widgets/search/trait-controls.php:134
+msgid "Spacing Above the Field"
+msgstr ""
+
+#: core/elementor/widgets/search/trait-controls.php:162
+msgid "Field Background Color"
+msgstr ""
+
+#: core/elementor/widgets/search/trait-controls.php:177
+msgid "Field Text Color"
+msgstr ""
+
+#: core/elementor/widgets/search/trait-controls.php:193
+msgid "Search Icon Color"
+msgstr ""
+
+#: core/library/class-header.php:37
+msgid "Title"
+msgstr ""
+
+#: core/library/class-header.php:38
+msgid "Status"
+msgstr ""
+
+#: core/library/class-header.php:39
+msgid "Date"
+msgstr ""
+
+#: core/library/class-header.php:48
+msgid "Active"
+msgstr ""
+
+#: core/library/class-header.php:49
+msgid "Inactive"
+msgstr ""
+
+#: core/library/class-header.php:111
+msgid "Single"
+msgstr ""
+
+#: core/library/class-header.php:143
+msgid "Header Over Bg"
+msgstr ""
+
+#: core/library/class-header.php:160
+msgid "WPDaddy Header"
+msgstr ""
+
+#: core/trait-rest.php:83
+msgid "No Title"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#. Description of the plugin/theme
+msgid "WP Daddy Header Builder"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://wpdaddy.com/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WP Daddy"
+msgstr ""
